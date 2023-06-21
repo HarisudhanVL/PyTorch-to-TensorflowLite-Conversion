@@ -6,9 +6,9 @@
    >*!pip install onnx-tf*
 ### 2) Clone the YOLOv7 model from the GitHub repo and download the yolov7.pt PyTorch file from the specified URL.\
 '''
->*!git clone https://github.com/WongKinYiu/yolov7.git*
+*!git clone https://github.com/WongKinYiu/yolov7.git*
 ##
->*%cd yolov7*
+*%cd yolov7*
 ##
->*!wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt*
+*!wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt*
 '''
